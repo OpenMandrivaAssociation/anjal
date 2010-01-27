@@ -2,7 +2,7 @@ Name: anjal
 Version: 0.3.1
 Release: %mkrel 1
 Summary: An email client for small screen devices
-Group: Applications/Productivity
+Group: Networking/Mail
 License: LGPLv2 or LGPLv3
 URL: http://live.gnome.org/Anjal/
 Source0: ftp://ftp.gnome.org/pub/gnome/sources/%{name}/0.3/%{name}-%{version}.tar.bz2
