@@ -4,7 +4,7 @@ Release: %mkrel 1
 Summary: An email client for small screen devices
 Group: Networking/Mail
 License: LGPLv2 or LGPLv3
-URL: http://live.gnome.org/Anjal/
+URL: https://live.gnome.org/Anjal/
 Source0: ftp://ftp.gnome.org/pub/gnome/sources/%{name}/0.3/%{name}-%{version}.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
 BuildRequires: evolution-devel
