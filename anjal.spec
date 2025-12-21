@@ -7,6 +7,11 @@ License: LGPLv2 or LGPLv3
 URL: https://live.gnome.org/Anjal/
 Source0: ftp://ftp.gnome.org/pub/gnome/sources/%{name}/0.3/%{name}-%{version}.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-root
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: evolution-devel
 BuildRequires: evolution-data-server-devel
 BuildRequires: libGConf2-devel
