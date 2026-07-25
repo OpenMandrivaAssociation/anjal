@@ -1,6 +1,6 @@
 Name: anjal
 Version: 0.3.1
-Release: %mkrel 1
+Release: 2
 Summary: An email client for small screen devices
 Group: Networking/Mail
 License: LGPLv2 or LGPLv3
